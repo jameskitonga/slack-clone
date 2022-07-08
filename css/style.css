@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  padding-top: 15px;
+  background-color: #F6F0E8;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  padding-left: 20px;
+  font-weight: bold;
+}
+
+.btn {
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-size: medium;
+}
+
+.btnWhite {
+  background: transparent;
+  color: purple;
+  border: 1px solid purple;
+  text-transform: uppercase;
+}
+
+.btnPurple {
+  color: white;
+  background: purple;
+  border: none;
+}
+
+.navright {
+  float: right;
+}
+
+.navleft {
+  float: left;
+}
+
+.mainleft {
+  float: left;
+}
+
+.mainright {
+  float: right;
+  margin-top: 80px;
+}
+
+.slack {
+  padding-top: 80px;
+}
+
+.google {
+  text-align: center;
+  padding: 10px;
+  vertical-align: center;
+  margin-left: 20px;
+  background: #4285f4;
+  color: #ffffff;
+  border-radius: 5px;
+  border: none;
+  margin-top: 2px;
+}
+
+.google p {
+  float: right;
+  padding-top: 10px;
+  margin-left: 5px;
+}
+
+img {
+  background: white;
+}
+
+.transform {
+  width: 600px;
+  font-size: larger;
+  font-size: 30px;
+  padding: 12px 0;
+}
+
+.h1 {
+  font-size: 80px;
+  width: 600px;
+}
+
+.clear {
+  clear: both;
+
+}
+
+.partners {
+  margin-top: 100px;
+}
+
+.logoimages li {
+  display: inline-block;
+  list-style: none;
+  margin: 30px;
+  vertical-align: middle;
+  background-color: #F6F0E8;
+}
+
+.now {
+  font-size: 20px;
+  font-weight: boulder;
+  float: right;
+  width: 600px;
+}
+
+.imag {
+  float: left;
+}
+
+.thumbnail {
+  margin-top: 20px;
+
+}
+
+.p1 {
+  margin: 30px 0;
+  width: 505px
+}
+
+.h3 {
+  font-size: 40px;
+  width: 600px;
+  margin: 70px 0;
+
+}
+
+.p2 {
+  margin: 0;
+  width: 500px;
+  font-size: 20px;
+
+
+
+}
+
+.u {
+
+  float: right;
+}
+
+.video {
+  float: right;
+
+
+}
