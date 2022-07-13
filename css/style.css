@@ -55,7 +55,7 @@ nav ul li {
 }
 
 .mainright {
-  float: right;
+  /* float: right; */
   margin-top: 80px;
 }
 
@@ -123,6 +123,7 @@ img {
 
 .imag {
   float: left;
+  margin: -40px;
 }
 
 .thumbnail {
@@ -132,29 +133,322 @@ img {
 
 .p1 {
   margin: 30px 0;
-  width: 505px
+  width: 505px;
+  font-weight: 400;
+  font-size: 1.125rem;
 }
 
 .h3 {
   font-size: 40px;
   width: 600px;
-  margin: 70px 0;
+  margin-top: 40px;
+
 
 }
 
 .p2 {
-  margin: 0;
   width: 500px;
   font-size: 20px;
-
-
-
+  margin: 20px;
 }
 
 .u {
-
   float: right;
 }
 
-.video {
-  float: right;}
+.mainright {
+  float: right;
+  width: 50%;
+
+}
+
+.mainleft {
+  float: left;
+  width: 50%;
+}
+
+.thread {
+  margin-top: -5px;
+}
+
+.channelsleft {
+  float: left;
+}
+
+.channelsright {
+  float: right;
+
+}
+
+.channels {
+  padding: 30px 0;
+  width: 75%;
+}
+
+.channels img {
+  border-radius: 7px;
+}
+
+.channel {
+  float: left;
+}
+
+.time {
+  float: right;
+}
+
+.section {
+  margin-top: 60px;
+
+}
+
+.vitabu {
+  margin-top: 150px;
+}
+
+.focus {
+  margin-top: 150px;
+}
+
+.pause {
+  float: right;
+  margin-top: -220px;
+  margin-right: 700px;
+
+}
+
+.addexternal {
+  float: left;
+  margin-top: 40px;
+
+}
+
+.brain {
+  float: right;
+  margin-right: 800px;
+  margin-top: 40px;
+
+}
+
+.hands {
+  float: right;
+  margin-top: -390px;
+  margin-right: 20px;
+  width: 50%
+}
+
+.simpli {
+  float: left;
+  margin-top: 100px;
+
+}
+
+.blue {
+  color: cornflowerblue;
+  font-weight: bolder;
+  font-size: large;
+}
+
+.h2 {
+  text-align: center;
+  margin-top: 60px;
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+.get {
+  margin-top: 150px;
+}
+
+.one {
+  background: #4A144B;
+  color: white;
+  border-radius: 6px;
+  width: 50px;
+  height: 50px;
+  margin-bottom: 30px;
+  
+
+}
+
+
+h4 {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.onee,
+.two {
+  float: left;
+  width: 20%;
+  margin: 40px 60px;
+  
+}
+
+.three {
+  float: right;
+  width: 20%;
+  margin: 40px 50px;
+}
+
+.p {
+  padding:10px 0;
+
+  margin-bottom: 60px;
+}
+
+.pic{
+  float: left;
+  margin:0 30px;
+background:white;
+padding:6px;
+}
+.learn{
+padding-top:50px;
+
+
+}
+.pic p{
+  margin-top:20px;
+  width:150px;
+}
+.pic learn{color:#4285f4
+}
+.black{background:black;
+color:#ffffff}
+
+
+.btnfree {
+  padding: 15px; 
+background:white;
+  color:purple;
+  border:2px solid black;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-size: medium;
+  margin-top:30px
+}
+ .Btn{
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-size: medium;
+  
+  
+}
+  
+.btntalk{
+  padding: 15px;
+  border: none;
+  background:purple;
+  color:white;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-size: medium;
+  margin-left:30px;
+}
+
+.welcome{ margin-top:-530px;
+text-align: center;
+margin-top:120px;
+font-size:30px;
+background:#4A144B;
+color:white;
+padding-top:90px;
+}
+.slack{
+padding-left:280px;
+
+
+}
+.end{
+list-style-type:none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
