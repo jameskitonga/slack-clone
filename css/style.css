@@ -49,11 +49,13 @@ nav ul li {
 .navleft {
   /* float: left; */
 }
-.navigation{
-display:flex;
-justify-content: space-between;
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
 
 }
+
 .mainleft {
   float: left;
 }
@@ -120,19 +122,19 @@ img {
 
 .now {
   width: 600px;
-  
+
 }
 
-.watch-vida{
-  display:flex;
+.watch-vida {
+  display: flex;
   justify-content: space-around;
-  font-size:2em;
+  font-size: 2em;
 }
 
 
 .imag {
   /* float: left; */
-  margin:-.96em 0;
+  margin: -.96em 0;
 }
 
 .thumbnail {
@@ -394,17 +396,4 @@ h4 {
   margin: 2rem 3rem;
   list-style-type: none;
   display: inline-block;
-}
-
-.icon {
-  margin: 1rem 1rem;
-  float: right;
-  list-style-type: none;
-}
-
-
-.download {
-  float: right;
-  margin-top:75px;
-  padding-right:318px;
 }
