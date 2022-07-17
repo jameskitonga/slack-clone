@@ -397,3 +397,10 @@ h4 {
   list-style-type: none;
   display: inline-block;
 }
+.last{
+list-style-type: none;
+}
+.icon{
+  list-style-type: none;
+  
+}
