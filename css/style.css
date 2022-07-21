@@ -42,28 +42,12 @@ nav ul li {
   border: none;
 }
 
-.navright {
-  /* float: right; */
-}
-
-.navleft {
-  /* float: left; */
-}
-
 .navigation {
   display: flex;
   justify-content: space-between;
 
 }
 
-.mainleft {
-  float: left;
-}
-
-.mainright {
-  /* float: right; */
-  margin-top: 80px;
-}
 
 .slack {
   padding-top: 80px;
@@ -131,12 +115,6 @@ img {
   font-size: 2em;
 }
 
-
-.imag {
-  /* float: left; */
-  margin: -.96em 0;
-}
-
 .thumbnail {
   margin-top: 20px;
 
@@ -163,95 +141,44 @@ img {
   margin: 20px;
 }
 
-.u {
-  float: right;
-}
+
 
 .mainright {
-  float: right;
   width: 50%;
 
 }
-
-.mainleft {
-  float: left;
-  width: 50%;
+.move-thread{
+  display: flex;
+}
+.channel{
+  display: flex;
+  gap:2em;
+  margin:1em;
+}
+.tyme{
+  display:flex;
+padding:0 9em;
+  justify-content: space-around;
+  
+}
+.book-focus{
+  display: flex;
+  justify-content: space-between;
+  margin:2em;
 }
 
-.thread {
-  margin-top: -5px;
+.simplify-hands{
+  display: flex;
+  justify-content: space-around;
 }
-
-.channelsleft {
-  float: left;
+.get-started{
+  display: flex;
+  padding:4em 0;
+  gap:3em;
 }
-
-.channelsright {
-  float: right;
-
-}
-
-.channels {
-  padding: 30px 0;
-  width: 75%;
-}
-
-.channels img {
-  border-radius: 7px;
-}
-
-.channel {
-  float: left;
-}
-
-.time {
-  float: right;
-}
-
-.section {
-  margin-top: 60px;
-
-}
-
-.vitabu {
-  margin-top: 150px;
-}
-
-.focus {
-  margin-top: 150px;
-}
-
-.pause {
-  float: right;
-  margin-top: -220px;
-  margin-right: 700px;
-
-}
-
-.addexternal {
-  float: left;
-  margin-top: 40px;
-
-}
-
-.brain {
-  float: right;
-  margin-right: 800px;
-  margin-top: 40px;
-
-}
-
-.hands {
-  float: right;
-  margin-top: -390px;
-  margin-right: 20px;
-  width: 50%
-}
-
-.simpli {
-  float: left;
-  margin-top: 100px;
-
+.annimation{
+  display: flex;
+  justify-content: space-around;
 }
 
 .blue {
@@ -288,31 +215,10 @@ h4 {
   font-size: 20px;
 }
 
-.onee,
-.two {
-  float: left;
-  width: 20%;
-  margin: 40px 60px;
-
-}
-
-.three {
-  float: right;
-  width: 20%;
-  margin: 40px 50px;
-}
-
 .p {
   padding: 10px 0;
 
   margin-bottom: 60px;
-}
-
-.pic {
-  float: left;
-  margin: 0 30px;
-  background: white;
-  padding: 6px;
 }
 
 .learn {
@@ -379,28 +285,36 @@ h4 {
   margin-bottom: 10px
 }
 
-.ends {
-  margin-top: -50px;
-  padding-left: 7rem;
-  float: left;
+
+
+.slack{
+  display:flex;
+
+}
+.end{
+  list-style: none;
 }
 
 
-.ends ul li {
-  list-style-type: none;
-  padding: 1rem 0;
-}
 
-.endx {
-  padding: 0 2rem;
-  margin: 2rem 3rem;
-  list-style-type: none;
-  display: inline-block;
-}
+
+
 .last{
 list-style-type: none;
+
 }
 .icon{
   list-style-type: none;
   
+}
+.lst ul{
+  display: flex; gap:3em;
+}
+.icons ul{
+  display: flex;gap:3em;
+}
+.last-section{
+  display: flex;
+  justify-content: space-between;
+  margin:2em 0;
 }
